@@ -1,0 +1,4 @@
+#define GREETER_SYSTEM "Linux"
+
+#define GREETER_COMPILER "MSVC 19.44.35229.0"
+
