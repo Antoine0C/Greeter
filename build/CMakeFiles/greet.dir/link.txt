@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/greet.dir/link.d CMakeFiles/greet.dir/greet.cpp.o -o greet

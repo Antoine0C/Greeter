@@ -1,0 +1,3 @@
+/home/ring/Greeter/Greeter/build/CMakeFiles/greet.dir
+/home/ring/Greeter/Greeter/build/CMakeFiles/edit_cache.dir
+/home/ring/Greeter/Greeter/build/CMakeFiles/rebuild_cache.dir

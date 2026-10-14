@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ring/Greeter/Greeter/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
