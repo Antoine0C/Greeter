@@ -9,6 +9,6 @@ namespace greeter{
 				}
 
 				std::string get_build_info(){
-								return "built on" + get_build_system() + " with " + GREETER_COMPILER;
+								return "built on " + get_build_system() + " with " + GREETER_COMPILER;
 				}
 } //namespace greeter
